@@ -1,5 +1,5 @@
 // -Create a Student object Data Structure )name,roll,age,class,gender,location,admission fees)30.Now create a console data table with.
-
+//wellcome
 /*
 -Total Admissions fees
 -Find All Female Students 
